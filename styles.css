@@ -1,0 +1,20 @@
+h1 {
+  text-align:center;
+  color: blue;
+  font-size: 50px;
+  }
+  
+  #parrafo_spaguetti {
+    text-align:center;
+    color: rgba(1, 1, 20, 0.852);
+    font-size: 24px;
+    }
+    nav {
+      text-align:start;
+      color: rgba(11, 20, 1, 0.852);
+      font-size: 32px;
+    }
+    h2 {
+      color: rgb(255, 132, 0);
+      font-size: 36px;
+      }    
